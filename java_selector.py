@@ -22,7 +22,7 @@ if inputresult == "1":
     os.system("export JAVA_HOME=`/usr/libexec/java_home -v 1.8.0_242`")
 elif inputresult == "2":
     os.system("export JAVA_HOME=`/usr/libexec/java_home -v 1.8.0_292`")
-elif inputresult == "3":
+elif inputresult == "5":
     os.system("export JAVA_HOME=`/usr/libexec/java_home -v 1.8.0_292`")     
 elif inputresult == "4":
     os.system("export JAVA_HOME=`/usr/libexec/java_home -v 1.8.0_292`")
