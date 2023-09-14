@@ -42,5 +42,7 @@ elif inputresult == "11":
     os.system("export JAVA_HOME=`/usr/libexec/java_home -v 1.8.0_292`")
 elif inputresult == "12":
     os.system("export JAVA_HOME=`/usr/libexec/java_home -v 1.8.0_292`")
+elif inputresult == "12":
+    os.system("export JAVA_HOME=`/usr/libexec/java_home -v 1.8.0_292---------`")
 else:
     print("False Input")
